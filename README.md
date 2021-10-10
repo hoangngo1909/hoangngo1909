@@ -1,4 +1,4 @@
-Hi, I'm Hoang Ngo  - aka lazy student with big dream :))  🌱
+Hi, I'm Hoang Ngo  - aka a lazy student with big dream :))  🌱
 🔭 I'm passionate about Computer Vison and Embedded System
 
 🥅 2021 Goals: Working on more AI Projects and have a date with ...
